@@ -73,10 +73,9 @@ Ao final deste módulo, você será capaz de:
 |---|---|---|
 | 1 | [Introdução ao Versionamento](./01-introducao-ao-versionamento/README.md) | O que é versionamento de código, por que ele existe e o panorama Git vs GitHub |
 | 2 | [Git — Fundamentos Locais](./02-git-fundamentos-locais/README.md) | Instalação, `git init`, estados dos arquivos, `add`, `commit`, `status`, `log` |
-| 3 | [Branches e Merge](./03-branches-e-merge/README.md) | Criando branches, mesclando alterações e resolvendo conflitos |
-| 4 | [.gitignore e Boas Práticas de Commit](./04-gitignore-e-boas-praticas-de-commit/README.md) | O que não versionar e como escrever bons commits |
-| 5 | [Repositórios Remotos e GitHub](./05-repositorios-remotos-e-github/README.md) | `remote`, `clone`, `push`, `pull` e o papel do GitHub |
-| 6 | [Fork, Pull Request e Code Review](./06-fork-pull-request-e-code-review/README.md) | Colaborando em projetos através de fork, PR e revisão de código |
+| 3 | [.gitignore e Boas Práticas de Commit](./04-gitignore-e-boas-praticas-de-commit/README.md) | O que não versionar e como escrever bons commits |
+| 4 | [Repositórios Remotos e GitHub](./05-repositorios-remotos-e-github/README.md) | `remote`, `clone`, `push`, `pull` e o papel do GitHub |
+| 5 | [Fork, Pull Request e Code Review](./06-fork-pull-request-e-code-review/README.md) | Colaborando em projetos através de fork, PR e revisão de código |
 
 ## 🗺️ Como estudar este tópico
 
